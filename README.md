@@ -1,3 +1,5 @@
+[![Edge Add-on](https://img.shields.io/badge/Microsoft_Edge-Add--on-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/0RDCKFTZRJMV)
+
 # 🎵 OK.ru Music Downloader Pro (Manifest V3)
 
 OK.ru (Odnoklassniki) üzerindeki müzikleri ve çalma listelerini orijinal **Sanatçı - Şarkı Adı** bilgileriyle doğrudan `.mp3` formatında indirmenizi sağlayan modern bir Chromium (Microsoft Edge, Google Chrome, Brave, Opera) tarayıcı eklentisidir.
